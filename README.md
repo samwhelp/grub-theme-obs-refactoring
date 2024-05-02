@@ -5,6 +5,8 @@
 | Link | GitHub |
 | ---- | ------ |
 | [grub-theme-obs-refactoring](https://samwhelp.github.io/grub-theme-obs-refactoring/) | [GitHub](https://github.com/samwhelp/grub-theme-obs-refactoring) |
+| [grub-theme-refactoring](https://samwhelp.github.io/grub-theme-refactoring) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring) |
+| [grub-theme-refactoring-select](https://samwhelp.github.io/grub-theme-refactoring-select/) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring-select) |
 
 
 
