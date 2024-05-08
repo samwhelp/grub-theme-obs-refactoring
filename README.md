@@ -17,6 +17,7 @@
 * [Theme File](#theme-file)
 * [Install](#install)
 * [Apply](#apply)
+* [Helper](#helper)
 * [Docs](#docs)
 
 
@@ -102,6 +103,15 @@ or run
 ``` sh
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
+
+
+
+
+## Helper
+
+| Helper |
+| ------ |
+| [background-selector](helper/background-selector) |
 
 
 
